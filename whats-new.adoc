@@ -1,0 +1,17 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, enhancements, fixes, new features, backup and recovery, ontap clusters, alerts, identity and access management, iam, recovery, netapp console local deployment, console local, local' 
+summary: NetApp 콘솔 로컬 배포에 포함된 기능 및 데이터 서비스의 최신 변경 사항에 대해 알아보십시오. 
+---
+= NetApp Console 로컬 배포의 최근 변경 사항
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp Console 로컬 배포에 포함된 기능 및 데이터 서비스의 최신 변경 사항에 대해 알아보십시오.

@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: release-notes-index.html 
+keywords: release notes 
+summary: NetApp Console 로컬 배포 기능 및 NetApp 데이터 서비스에 대한 전체 릴리스 노트를 확인하십시오. 
+---
+= 릴리스 노트 색인
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp Console 로컬 배포 기능 및 NetApp 데이터 서비스에 대한 전체 릴리스 노트를 확인하십시오.
+
+
+
+[[netapp-console-local-deployment]]
+== NetApp Console 로컬 배포
+
+* https://docs.netapp.com/us-en/console-local/whats-new.html["NetApp Console 로컬 배포"^]
+
+
+
+
+[[data-services]]
+== 데이터 서비스
+
+* https://docs.netapp.com/us-en/data-services-backup-recovery/whats-new.html["백업 및 복구"^]
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="f05ea9e0c9ccffc58a546b5b7a0d8608" category="doc">백업 및 복구</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">법적 고지</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">법적 고지사항은 저작권 표시, 상표, 특허 등에 대한 접근을 제공합니다.</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">저작권</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">상표</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NETAPP, NETAPP 로고 및 NetApp 상표 페이지에 나열된 마크는 NetApp, Inc.의 상표입니다. 다른 회사 및 제품 이름은 해당 소유자의 상표일 수 있습니다.</block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">특허</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">NetApp이 소유한 특허의 현재 목록은 다음에서 확인할 수 있습니다:</block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">개인정보 보호정책</block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">오픈 소스</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">고지 파일에는 NetApp 소프트웨어에 사용된 타사 저작권 및 라이선스에 대한 정보가 포함되어 있습니다.</block>
+  <block id="1bc01e08b42828fc0cac94adc93e7ad2" category="summary">NetApp Console 로컬 배포 기능 및 NetApp 데이터 서비스에 대한 전체 릴리스 노트를 확인하십시오.</block>
+  <block id="ad49677f8bac8ede065e8839632b6f38" category="doc">릴리스 노트 색인</block>
+  <block id="8cfa648663e709b25a2c1a44e30b049f" category="paragraph">NetApp Console 로컬 배포 기능 및 NetApp 데이터 서비스에 대한 전체 릴리스 노트를 확인하십시오.</block>
+  <block id="fae210aa9f9d8906ee39264d97001f11" category="section-title">NetApp Console 로컬 배포</block>
+  <block id="9d4198100508becebdc0d2a749b030a8" category="list-text"><block ref="9d4198100508becebdc0d2a749b030a8" category="inline-link-rx"></block></block>
+  <block id="43bc868f42929fd56604f4d757ff55ae" category="section-title">데이터 서비스</block>
+  <block id="7a07c5a1c722a3ac42eb82b2ec878373" category="list-text"><block ref="7a07c5a1c722a3ac42eb82b2ec878373" category="inline-link-rx"></block></block>
+  <block id="b08c44cfeb2c12a2e9336ead8bda9d0b" category="summary">NetApp 콘솔 로컬 배포에 포함된 기능 및 데이터 서비스의 최신 변경 사항에 대해 알아보십시오.</block>
+  <block id="1154d38cf2282c69326af2cc648bda3f" category="doc">NetApp Console 로컬 배포의 최근 변경 사항</block>
+  <block id="ab2c57a316edd449634464ee257c7d05" category="paragraph">NetApp Console 로컬 배포에 포함된 기능 및 데이터 서비스의 최신 변경 사항에 대해 알아보십시오.</block>
+  <block id="e432f1482da7770cc741255ee1465c85" category="sidebar">이 릴리스 노트는 NetApp Console 로컬 배포 및 해당 콘솔에서 지원하는 데이터 서비스에 대한 최근 개선 사항을 설명합니다. 각 서비스에 대한 전체 릴리스 노트 링크는 다음과 같습니다.</block>
+  <block id="c8687cc8b0048d02ed49a88bc671ffa6" category="sidebar">NetApp Console 로컬 배포 릴리스 노트</block>
+  <block id="688c9e1d05415e95375fcbe885289e4c" category="sidebar">NetApp Console 로컬 배포에 포함된 기능 및 데이터 서비스의 최신 변경 사항에 대해 알아보십시오. 전체 릴리스 기록은 각 서비스별 전체 릴리스 노트를 참조하십시오.</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">새로운 소식</block>
+  <block id="f5f7a4d1535be1d0940e398b2997dfc0" category="sidebar">서비스별 릴리스 노트</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">블로그 및 커뮤니티</block>
+  <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp Data Services</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 커뮤니티</block>
+  <block id="dcf4ee5c8f297d1f5e0da7b22e359023" category="sidebar">최근 변경 사항</block>
+</blocks>
