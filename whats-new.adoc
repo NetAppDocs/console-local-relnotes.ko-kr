@@ -80,6 +80,8 @@ Oracle Database 워크로드 보호에 대한 자세한 내용은 https://docs.n
 
 https://docs.netapp.com/us-en/console-local/concept-netapp-console-local.html["NetApp Console 로컬 배포 알아보기"].
 
+https://docs.netapp.com/us-en/console-local/console-differences.html["NetApp Console 로컬 배포와 NetApp Console SaaS 및 프라이빗 모드의 차이점을 알아보십시오."].
+
 
 
 [[backup-and-recovery]]
