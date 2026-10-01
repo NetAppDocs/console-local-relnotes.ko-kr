@@ -114,4 +114,8 @@
   <block id="1e2fd5e7979041c997816d29d5c1e2c0" category="inline-link">NetApp Backup and Recovery로 VMware 워크로드를 보호합니다.</block>
   <block id="af77598cf52235180b19bf359e518fc2" category="paragraph">VMware 워크로드 보호에 대한 자세한 내용은<block ref="d7977b9c562cb95be37532b996678207" category="inline-link-rx"></block>을 참조하십시오.</block>
   <block id="e133e28734ec4222b7f45792925cee97" category="section-title">2026년 9월 28일</block>
+  <block id="935253a377b19143ee00ca184dec844f" category="paragraph">이번 릴리스에서 ONTAP Volumes 워크로드는 다음과 같은 미리 보기 개선 사항을 도입합니다.</block>
+  <block id="cd4f576093d5ac341dfcb0aaa95386df" category="list-text">*볼륨 복원 작업 취소*: 이제 작업 모니터링 페이지에서 진행 중인 ONTAP 볼륨 복원 작업을 취소할 수 있어, 실행 시간이 길거나 속도가 느린 작업을 더욱 쉽게 관리할 수 있습니다.</block>
+  <block id="f280b51545cc9233bf1322ad4aa41fc1" category="list-text">*볼륨 인덱싱 상태 보고 기능 개선*: ONTAP Volumes 대시보드는 이제 인덱싱 대상이 아닌 볼륨 및 스냅샷 복사본에 대해<block ref="6136261711c49bf0e8e1dcb22a2c524f" prefix=" " category="inline-code"></block> 상태를 도입하여 인덱싱 상태를 더욱 정확하게 보고합니다. <block ref="838534d879f74e7af515a7de57e72b71" prefix=" " category="inline-code"></block> 상태는 이제 인덱싱 대기 중인 볼륨에만 사용되며, 볼륨 세부 정보에서는 스냅샷별 인덱싱 상태와 함께 볼륨 또는 스냅샷 복사본이 인덱싱되지 않는 이유를 설명하는 마우스 오버 텍스트가 표시됩니다.</block>
+  <block id="0ab4a270a7306aa53a9216568b919ddc" category="list-text">*NetApp AFX 지원*: 이제 2노드 및 4노드 NetApp AFX 클러스터에서 호스팅되는 볼륨을 보호할 수 있습니다.</block>
 </blocks>
