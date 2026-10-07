@@ -118,4 +118,5 @@
   <block id="cd4f576093d5ac341dfcb0aaa95386df" category="list-text">*볼륨 복원 작업 취소*: 이제 작업 모니터링 페이지에서 진행 중인 ONTAP 볼륨 복원 작업을 취소할 수 있어, 실행 시간이 길거나 속도가 느린 작업을 더욱 쉽게 관리할 수 있습니다.</block>
   <block id="f280b51545cc9233bf1322ad4aa41fc1" category="list-text">*볼륨 인덱싱 상태 보고 기능 개선*: ONTAP Volumes 대시보드는 이제 인덱싱 대상이 아닌 볼륨 및 스냅샷 복사본에 대해<block ref="6136261711c49bf0e8e1dcb22a2c524f" prefix=" " category="inline-code"></block> 상태를 도입하여 인덱싱 상태를 더욱 정확하게 보고합니다. <block ref="838534d879f74e7af515a7de57e72b71" prefix=" " category="inline-code"></block> 상태는 이제 인덱싱 대기 중인 볼륨에만 사용되며, 볼륨 세부 정보에서는 스냅샷별 인덱싱 상태와 함께 볼륨 또는 스냅샷 복사본이 인덱싱되지 않는 이유를 설명하는 마우스 오버 텍스트가 표시됩니다.</block>
   <block id="0ab4a270a7306aa53a9216568b919ddc" category="list-text">*NetApp AFX 지원*: 이제 2노드 및 4노드 NetApp AFX 클러스터에서 호스팅되는 볼륨을 보호할 수 있습니다.</block>
+  <block id="389c52d9a18d68d9dd6a3eb24bc88982" category="list-text">*Cloud Volumes ONTAP Azure Entra ID 지원*: Azure 인증에 스토리지 계정 액세스 키를 사용하지 않으려는 경우, 이제 Azure 오브젝트 스토리지 버킷 구성에 Microsoft Entra ID 인증을 사용할 수 있습니다. 이 옵션은 ONTAP 9.16.1 이상이 실행되는 Azure 시스템의 Cloud Volumes ONTAP에서 지원됩니다.</block>
 </blocks>
