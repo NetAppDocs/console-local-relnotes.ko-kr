@@ -50,14 +50,9 @@
   <block id="23a8c2c2f00449fb258432bb555df792" category="paragraph">이번 릴리스에서 Kubernetes 워크로드는 다음과 같은 개선 사항을 도입했습니다.</block>
   <block id="c3c3199204503d3bbd5d4dce7eabf238" category="inline-link">Kubernetes 워크로드 보호 개요</block>
   <block id="9758775529e1c89dcf89f573edce8344" category="paragraph">Kubernetes 워크로드 보호에 대한 자세한 내용은<block ref="39b251948c54856304b175e405c21732" category="inline-link-rx"></block>을 참조하세요.</block>
-  <block id="66591c0e71be05bd24e1869944b92db6" category="doc">모든 워크로드에 대한 향상된 멀티 버킷 지원</block>
-  <block id="62ff0d9db122207756fd73342a3eb3ad" category="paragraph">NetApp Backup and Recovery는 이제 서로 다른 클라우드 공급자에 걸쳐 최대 100개의 버킷을 사용하여 시스템 내 워크로드를 보호하는 기능을 지원합니다. 시스템당 6개 이상의 버킷을 지원하려면 ONTAP 9.19.1 이상 버전이 필요합니다.</block>
-  <block id="d41c5b540be0c3c679bd7d5c99b06670" category="inline-link">NetApp Backup and Recovery에 대해 알아보세요</block>
-  <block id="9bf2c1ebc9be74ae2e995a0a4dab1fec" category="paragraph">NetApp Backup and Recovery에 대한 자세한 내용은 <block ref="a026c5bec08ff7bb5b963e48c0daa63e" category="inline-link-rx"></block>을 참조하십시오.</block>
   <block id="2402a0b8d9aa0c3e1beaccf0071277cc" category="doc">NetApp Console 로컬 배포 소개</block>
   <block id="258ea65dfbe28db96b93f873d22fbf91" category="inline-link">NetApp Console 로컬 배포 알아보기</block>
   <block id="6ffc226d668d783acc3c710ae22bd61d" category="section-title">2026년 8월 10일</block>
-  <block id="de2e4685966d24481dfab35c95ad44dc" category="section-title">2026년 7월 13일</block>
   <block id="64c0705ecd150a07e521638d5157a4ec" category="doc">일반 NetApp Backup and Recovery 기능 향상</block>
   <block id="7700d007f970d2c042d61e3551aa039e" category="list-text">*NetApp Console 로컬 배포 지원*: 이번 NetApp Backup and Recovery 릴리스는 NetApp Console 로컬 배포를 미리 보기 상태로 지원합니다.</block>
   <block id="ce2f56e5c9015b28eb92d0581ad9a718" category="list-text">*90일 작업 보존*: 이제 Backup and Recovery가 작업 모니터에서 작업 정보를 90일 동안 보존합니다.</block>
@@ -120,4 +115,15 @@
   <block id="0ab4a270a7306aa53a9216568b919ddc" category="list-text">*NetApp AFX 지원*: 이제 2노드 및 4노드 NetApp AFX 클러스터에서 호스팅되는 볼륨을 보호할 수 있습니다.</block>
   <block id="389c52d9a18d68d9dd6a3eb24bc88982" category="list-text">*Cloud Volumes ONTAP Azure Entra ID 지원*: Azure 인증에 스토리지 계정 액세스 키를 사용하지 않으려는 경우, 이제 Azure 오브젝트 스토리지 버킷 구성에 Microsoft Entra ID 인증을 사용할 수 있습니다. 이 옵션은 ONTAP 9.16.1 이상이 실행되는 Azure 시스템의 Cloud Volumes ONTAP에서 지원됩니다.</block>
   <block id="82d1d9da33b9c6cae173365156457fff" category="section-title">VMware 워크로드 향상</block>
+  <block id="5ab87f8d29b60ea3a36ab56b1afa32c3" category="paragraph">이번 릴리스에서 Hyper-V 워크로드는 다음과 같은 개선 사항을 도입했습니다.</block>
+  <block id="b77bf9dc680cf2db1d8b3d5f6156585b" category="list-text">*NetApp MetroCluster 지원*: 이제 NetApp Backup and Recovery를 사용하여 NetApp MetroCluster로 미러링된 Hyper-V VM을 보호할 수 있습니다.</block>
+  <block id="7ed9eebaad97e0f936b753873e6ff586" category="list-text">*SAN VM용 스패닝 디스크 보호*: CIFS 및 SAN 구성의 경우, 이제 보호 그룹의 각 VM에 연결된 모든 디스크를 보호할 수 있습니다. 여기에는 여러 ONTAP 볼륨 또는 ONTAP 스토리지 시스템에 분산된 파일(스패닝 디스크)과 단일 위치로 제한된 파일이 포함됩니다.</block>
+  <block id="0fd3e1f73fc71151c33e67909039dd88" category="paragraph">이번 릴리스에서 Oracle Database 워크로드는 다음과 같은 개선 사항을 도입했습니다.</block>
+  <block id="82dd01a289cf98e9d962781faec1018b" category="paragraph">*자동 아카이브 로그 관리*: 데이터베이스 복원 및 복제 작업 중에 NetApp Backup and Recovery는 필요한 아카이브 로그를 자동으로 검색하여 마운트하고, 작업이 완료되면 마운트를 해제합니다. 기본, 보조 및 오브젝트 스토리지 로그 소스가 지원됩니다.</block>
+  <block id="5f1a7ddd55d2a0b34003e08fe7cacdaf" category="section-title">Microsoft SQL Server 워크로드 향상</block>
+  <block id="32d770e78ed41453037389dce2e33d9c" category="paragraph">이번 릴리스에서 Microsoft SQL Server 워크로드는 다음과 같은 개선 사항을 도입했습니다:</block>
+  <block id="92337d8e70dfe880909b2051333e2fe4" category="paragraph">*라이선스 변경 사항*: 디스크 간 또는 디스크 간 팬아웃 아키텍처를 사용하는 백업에는 더 이상 요금이 부과되지 않습니다. 요금은 3-2-1 또는 디스크-오브젝트 스토리지 아키텍처를 사용하는 백업을 포함하여 오브젝트 스토리지에 대한 백업에만 적용됩니다.</block>
+  <block id="2f75ea4c51ce88400f5201fdeb2ccb9d" category="inline-link">NetApp Backup and Recovery를 사용하여 Microsoft SQL Server 워크로드를 보호하는 방법에 대해 알아보십시오.</block>
+  <block id="a5e96f4320434690f042cf906acacdcd" category="paragraph">Microsoft SQL Server 워크로드 보호에 대한 자세한 내용은 <block ref="36e999a623e2068d9719d9ca1143b559" category="inline-link-rx"></block>을(를) 참조하십시오.</block>
+  <block id="e019cb225a4644922cdd06575b099710" category="section-title">2026년 10월 12일</block>
 </blocks>
