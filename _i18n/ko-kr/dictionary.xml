@@ -126,4 +126,5 @@
   <block id="2f75ea4c51ce88400f5201fdeb2ccb9d" category="inline-link">NetApp Backup and Recovery를 사용하여 Microsoft SQL Server 워크로드를 보호하는 방법에 대해 알아보십시오.</block>
   <block id="a5e96f4320434690f042cf906acacdcd" category="paragraph">Microsoft SQL Server 워크로드 보호에 대한 자세한 내용은 <block ref="36e999a623e2068d9719d9ca1143b559" category="inline-link-rx"></block>을(를) 참조하십시오.</block>
   <block id="e019cb225a4644922cdd06575b099710" category="section-title">2026년 10월 12일</block>
+  <block id="54ea8878308d39d6d78a01f24a278aa1" category="list-text">*작업 모니터 사용자 지정 날짜 범위 필터링*: 이제 작업 모니터의 달력에서 사용자 지정 시작일과 종료일을 선택하여 지난 90일간의 작업을 검색할 수 있습니다.</block>
 </blocks>
