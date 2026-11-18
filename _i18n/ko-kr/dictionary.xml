@@ -40,50 +40,17 @@
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 커뮤니티</block>
   <block id="dcf4ee5c8f297d1f5e0da7b22e359023" category="sidebar">최근 변경 사항</block>
   <block id="76c3536921b70f0616becde2e9340a54" category="doc">ONTAP Volumes 워크로드 개선 사항</block>
-  <block id="cd11b988c9f7b5a4f534d244c8f742a8" category="inline-link">ONTAP 볼륨 워크로드 보호 개요</block>
-  <block id="cb64e7530a451b6a29edd3427495ec90" category="paragraph">ONTAP Volumes 워크로드 보호에 대한 자세한 내용은<block ref="c12abefe1b46a590752410462324e2ee" category="inline-link-rx"></block>를 참조하십시오.</block>
   <block id="c1389306eef9d4289001dc6323eecb0c" category="section-title">Hyper-V 워크로드 개선 사항</block>
-  <block id="558e5aec99d772eb277c493188d3c607" category="section-title">VMware 워크로드 개선 사항</block>
-  <block id="79d4e4bc94bda2b257f4190786069be1" category="inline-link">VMware 워크로드 보호 개요</block>
-  <block id="c54d53d5c9b9527bb4d1e1020b2a04ec" category="paragraph">VMware 워크로드 보호에 대한 자세한 내용은<block ref="81bdea79654f29d88dbffb87457fe1f5" category="inline-link-rx"></block>을 참조하십시오.</block>
   <block id="27f6ebf60d74cce9ba572615629e4416" category="doc">Kubernetes 워크로드 개선 사항</block>
   <block id="23a8c2c2f00449fb258432bb555df792" category="paragraph">이번 릴리스에서 Kubernetes 워크로드는 다음과 같은 개선 사항을 도입했습니다.</block>
-  <block id="c3c3199204503d3bbd5d4dce7eabf238" category="inline-link">Kubernetes 워크로드 보호 개요</block>
-  <block id="9758775529e1c89dcf89f573edce8344" category="paragraph">Kubernetes 워크로드 보호에 대한 자세한 내용은<block ref="39b251948c54856304b175e405c21732" category="inline-link-rx"></block>을 참조하세요.</block>
-  <block id="2402a0b8d9aa0c3e1beaccf0071277cc" category="doc">NetApp Console 로컬 배포 소개</block>
-  <block id="258ea65dfbe28db96b93f873d22fbf91" category="inline-link">NetApp Console 로컬 배포 알아보기</block>
-  <block id="6ffc226d668d783acc3c710ae22bd61d" category="section-title">2026년 8월 10일</block>
-  <block id="64c0705ecd150a07e521638d5157a4ec" category="doc">일반 NetApp Backup and Recovery 기능 향상</block>
-  <block id="7700d007f970d2c042d61e3551aa039e" category="list-text">*NetApp Console 로컬 배포 지원*: 이번 NetApp Backup and Recovery 릴리스는 NetApp Console 로컬 배포를 미리 보기 상태로 지원합니다.</block>
-  <block id="ce2f56e5c9015b28eb92d0581ad9a718" category="list-text">*90일 작업 보존*: 이제 Backup and Recovery가 작업 모니터에서 작업 정보를 90일 동안 보존합니다.</block>
-  <block id="e0ec2dc076093e707f6f4a129c330a5e" category="paragraph">이번 릴리스에서 VMware 워크로드는 다음과 같은 개선 사항을 도입했습니다.</block>
-  <block id="1a83c2d5d73015e6e971eff46d37e9d8" category="list-text">*SAN VM에 대한 대체 위치 복원 지원*: 이제 SAN 기반 VM 백업을 다른 위치로 복원할 수 있습니다.</block>
-  <block id="b7bfbf5f47aa4163507ae71ed18f8b9f" category="list-text">*여러 백업 삭제 지원*: 이제 한 번에 여러 백업을 삭제할 수 있습니다.</block>
-  <block id="c67660fa166ae58260874bbf6f9c5e4a" category="list-text">*에어갭 리소스에 대한 미리 보기 지원*: NetApp Console 로컬 배포에서 NetApp Backup and Recovery를 실행하는 경우 에어갭 Kubernetes 리소스를 검색, 보호 및 복원할 수 있습니다. 이 기능은 이번 릴리스에서 미리 보기로 제공됩니다.</block>
-  <block id="d1c241263c19a21db56b6d9aaeb83ca1" category="paragraph">이번 릴리스에서 ONTAP Volumes 워크로드는 다음과 같은 개선 사항을 도입했습니다.</block>
-  <block id="3c8fad259371a43b707a7a3c64b147f6" category="list-text">*Backup and Recovery 활성화 없이 ONTAP 시스템 및 볼륨 검색*: 이제 Backup and Recovery를 활성화하지 않고도 시스템과 볼륨을 검색할 수 있습니다.</block>
-  <block id="d84803ce394c9284844fcf1a08967ee4" category="paragraph"><block ref="a11bdddbf642d1f60f3b9997ef8c00d9" category="inline-link-rx"></block>.</block>
   <block id="d649bc1632422c59f70f207f44b9bd46" category="paragraph">이번 릴리스에서 Hyper-V 워크로드는 다음과 같은 개선 사항을 도입했습니다.</block>
-  <block id="f24ced363c199d867c90ec2cb7734252" category="paragraph">*오브젝트 스토리지 백업을 다른 위치로 복원*: 이제 Hyper-V 가상 머신, 파일 및 폴더를 오브젝트 스토리지에서 다른 스토리지 위치로 복원할 수 있습니다.</block>
   <block id="9836134eb11f1353834ea33101d25681" category="inline-link">NetApp Backup and Recovery를 사용하여 Hyper-V 워크로드를 보호하는 방법에 대해 알아보십시오.</block>
   <block id="02b4e2b0b1ffdd4b0919e2e3430f47a2" category="paragraph">Hyper-V 워크로드 보호에 대한 자세한 내용은<block ref="ff9e4811de6c06d1343d50a5a2fb4ef4" category="inline-link-rx"></block>를 참조하십시오.</block>
-  <block id="d7a71b14f458c01c992ae6ab1d9419fb" category="list-text">*Trident Protect 26.08*: 이번 릴리스에는 Trident Protect 26.08가 포함되어 있습니다.</block>
-  <block id="a246bba4bc1bf6be5dbc5f0eef6fa916" category="list-text">*백업 재시도*: 이제 Kubernetes 보호 정책의 고급 설정에서 백업 재시도를 활성화하고 재시도 횟수 및 재시도 간격을 구성할 수 있습니다.</block>
-  <block id="af4a914ceb04d24e26988f7034d17a6a" category="list-text">*부분 백업 성공*: 이제 Kubernetes 보호 정책의 고급 설정을 통해 개별 리소스에 장애가 발생하더라도 백업을 계속 진행하여 백업 작업이 부분적으로 성공한 것으로 처리할 수 있습니다. 이를 통해 백업 작업 중 일부 리소스에 장애가 발생하더라도 백업된 리소스를 복원할 수 있습니다.</block>
-  <block id="51d0bd2fc2cb031a5bd97ec4521df850" category="list-text">*크래시 일관성 및 VM 일관성 백업*: NetApp Console용 백업 및 복구 서비스는 이제 크래시 일관성 또는 VM 일관성 백업이나 스냅샷을 생성하는 보호 정책 구성을 지원합니다. 또한 보호 작업 중에 VM을 일시 중지하는 방법을 사용자 지정할 수 있습니다.</block>
-  <block id="f1aeeb7adfac5302d8957879854e8855" category="list-text">*콘솔 에이전트 IP 주소 변경 시 Kubernetes 클러스터 재연결*: NetApp Console 서비스용 Backup and Recovery를 사용하면 이제 에이전트의 IP 주소가 변경될 경우 클러스터를 콘솔 에이전트에 다시 연결할 수 있습니다.</block>
-  <block id="137aac5acf6a89b5f2b8d01617331ec5" category="list-text">*클러스터 새 콘솔 에이전트로 마이그레이션*: NetApp Console 서비스용 Backup and Recovery를 사용하면 기존 에이전트에 장애가 발생하거나 삭제된 경우 클러스터를 새 콘솔 에이전트로 마이그레이션하여 애플리케이션 보호 기능을 중단 없이 유지할 수 있습니다.</block>
   <block id="5bac8342d3d15811fd4569a62898855c" category="inline-link">NetApp Backup and Recovery를 사용하여 Kubernetes 워크로드를 보호하는 방법에 대해 알아보십시오.</block>
   <block id="9768ac88d7eeb5d6d2192e590de89bb4" category="paragraph">Kubernetes 워크로드 보호에 대한 자세한 내용은<block ref="1288e5e7d4fc4b4cb3f5e18b91f79147" category="inline-link-rx"></block>을 참조하세요.</block>
   <block id="c85cd7cc7711f70f8bc51d35495063e2" category="section-title">Oracle Database 워크로드 향상</block>
-  <block id="1cab61c7413f41fbca96243cd9ae0d06" category="paragraph">이번 릴리스에서 Oracle 데이터베이스 워크로드는 다음과 같은 개선 사항을 도입했습니다.</block>
-  <block id="26d43fe933dfc83c3004371ec611ca0f" category="list-text">*플러그형 데이터베이스(PDB) 복원*: 이제 개별 플러그형 데이터베이스(PDB) 및 PDB 테이블스페이스를 복원할 수 있으며, 특정 시점 복구도 가능합니다.</block>
-  <block id="ba1d750ea9570e1e14902f85cdd21fbd" category="list-text">*플러그형 데이터베이스(PDB) 복제*: 이제 기존 대상 컨테이너 데이터베이스(CDB)에 단일 PDB를 복제할 수 있으며, 전체 컨테이너 데이터베이스를 복제할 때 선택적으로 PDB를 제외할 수도 있습니다.</block>
   <block id="76665439cf119912213e2021a654bd03" category="inline-link">NetApp Backup and Recovery를 사용하여 Oracle Database 워크로드를 보호하는 방법에 대해 알아보십시오.</block>
   <block id="883ef32320e466646eafa77fe6544695" category="paragraph">Oracle Database 워크로드 보호에 대한 자세한 내용은<block ref="ceba14b704f10c1caedce91a9e3962ca" category="inline-link-rx"></block>을 참조하십시오.</block>
-  <block id="7c3780c8bbc09e634d77ec9249acfb5c" category="section-title">2026년 8월 17일</block>
-  <block id="d2a0f46558d1ad15a1efcaa26aef1b39" category="inline-link">NetApp Console 로컬 배포와 NetApp Console SaaS 및 프라이빗 모드의 차이점을 알아보십시오.</block>
-  <block id="fc43c258a671e0d243e8a95a48956300" category="paragraph"><block ref="a79ef635b40614d2cd5c555de517dd6f" category="inline-link-rx"></block>.</block>
   <block id="6c302dca9120d9212ecda9d1ad1f74c9" category="paragraph">이번 릴리스에서는 KVM, Hyper-V 및 VMware 워크로드에 다음과 같은 개선 사항이 도입되었습니다.</block>
   <block id="51b1f28526e9e7dfdb39548a8b5d4ac0" category="paragraph">*VM에 대한 디스크 보호 기능 확장*: CIFS 구성의 경우, 백업 및 복구 기능은 이제 보호 그룹에 속한 각 VM에 연결된 모든 디스크를 보호할 수 있도록 지원합니다. 여기에는 여러 ONTAP 볼륨 또는 ONTAP 스토리지 시스템(스패닝 디스크)에 분산된 파일과 단일 위치에만 있는 파일이 모두 포함됩니다.</block>
   <block id="1e62d1b5255654e86ebb8b223345252a" category="section-title">ONTAP Volumes 워크로드 향상</block>
@@ -98,7 +65,6 @@
   <block id="1f5228fb8e4d751814a84ea17a1c4929" category="doc">일반 NetApp Backup and Recovery 기능 향상</block>
   <block id="36d329847d8e5ae441cfdb0f4e5f6e2f" category="paragraph">*VM 호스트 검색 중 자격 증명 선택*: KVM, Hyper-V 또는 VMware 호스트를 검색할 때 Backup and Recovery에 이미 추가한 자격 증명을 사용할 수 있습니다.</block>
   <block id="ffe23fba63447ec89bcdd7bc0c48257f" category="section-title">Hyper-V 워크로드 향상</block>
-  <block id="8dbaebd91b282de2115c0933e53cc8b1" category="list-text">*복원 작업을 백업보다 우선 순위 지정*: 이제 볼륨, 파일 또는 폴더를 복원할 때 복원 작업을 백업 작업보다 우선 순위로 지정할 수 있습니다.</block>
   <block id="419cd2b7ee4c4a768ccdb742a76a6d51" category="paragraph">*다크 사이트 지원 강화*: NetApp Backup and Recovery for dark sites는 이제 NetApp Backup and Recovery와 동일한 ONTAP Volumes 데이터 보호 기능을 제공합니다. 이 개선 사항에는 업데이트된 백업, 복원 및 작업 관리 서비스와 새로운 메타데이터 데이터베이스가 포함됩니다. 업그레이드 시 기존 데이터베이스 데이터는 자동으로 보존되고 마이그레이션됩니다. 업그레이드 후 감사 로그를 검토하여 마이그레이션이 성공적으로 완료되었는지 확인하십시오. NetApp Backup and Recovery for dark sites는 ONTAP Volumes 워크로드만 지원합니다.</block>
   <block id="fc56ab1b23274c05b12ad0c8dc80ef1c" category="list-text">*클러스터 및 네임스페이스 수준의 역할 기반 액세스 제어(RBAC)*: Kubernetes 클러스터 검색 중에 새 클러스터와 연결할 프로젝트 또는 폴더를 선택하여 리소스에 대한 액세스를 제어할 수 있습니다. 특정 네임스페이스를 등록하여 액세스 제어를 수행할 수도 있습니다. 이를 통해 클러스터 또는 네임스페이스 수준에서 더욱 세밀한 액세스 제어가 가능합니다.</block>
   <block id="f7afeeafbf15177ad50522c2abcfb502" category="paragraph">*콘솔 역할 기반 액세스 제어(RBAC) 지원*: Hyper-V, KVM 및 VMware 워크로드가 이제 NetApp Console 프레임워크의 RBAC 기능을 지원하여 개별 Hyper-V, KVM 또는 VMware 호스트에 대한 액세스를 관리할 수 있습니다.</block>
@@ -145,4 +111,10 @@
   <block id="ce6934326bbfd4652849311e1ed89fe6" category="paragraph">이번 릴리스에서 NetApp Backup and Recovery는 모든 워크로드에 대해 다음과 같은 라이선스 개선 사항을 도입했습니다:</block>
   <block id="50913c9499a96938febd19de9c1bf895" category="inline-link">NetApp Backup and Recovery 라이선스 설정</block>
   <block id="83b090108fa1e810d92771b23b7b0267" category="paragraph">라이선스에 대한 자세한 내용은 <block ref="aa1a103ec550203513cdef85cd5672c0" category="inline-link-rx"></block>을(를) 참조하십시오.</block>
+  <block id="78ba94be34b62da6b3c55ab6428c64de" category="paragraph">이번 릴리스에서 NetApp Backup and Recovery는 Hyper-V 워크로드에 대해 다음과 같은 향상된 기능을 제공합니다.</block>
+  <block id="5a17a39de31b7b5832a689a22a0960d3" category="paragraph">*NetApp MetroCluster 지원 향상*: NetApp Backup and Recovery는 이제 스위치오버 또는 스위치백 작업 전후에 NetApp MetroCluster 구성의 Hyper-V 호스트를 보호하는 기능을 지원합니다.</block>
+  <block id="3df1770bd78ab7f279534a4bc01e8279" category="inline-link">Hyper-V 워크로드를 검색하고 관리하십시오</block>
+  <block id="3cb8f9712223b09ad73c450e0af0ea64" category="paragraph">NetApp MetroCluster 구성에서 Hyper-V 호스트를 보호하는 방법에 대한 자세한 내용은 <block ref="665a91254fa4402bbc204875b0e6bd92" category="inline-link-rx"></block>을(를) 참조하십시오.</block>
+  <block id="844ae54d758df29e7d829704e13ec279" category="paragraph">Hyper-V 워크로드 보호에 대한 자세한 내용은<block ref="ae9a446e0ed2e2ae49be41b424784f6c" category="inline-link-rx"></block>를 참조하십시오.</block>
+  <block id="e370f8f4d5db9e4f93257ac02adddec3" category="section-title">2026년 11월 9일</block>
 </blocks>
