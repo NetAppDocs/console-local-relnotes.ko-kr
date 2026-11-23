@@ -117,4 +117,14 @@
   <block id="3cb8f9712223b09ad73c450e0af0ea64" category="paragraph">NetApp MetroCluster 구성에서 Hyper-V 호스트를 보호하는 방법에 대한 자세한 내용은 <block ref="665a91254fa4402bbc204875b0e6bd92" category="inline-link-rx"></block>을(를) 참조하십시오.</block>
   <block id="844ae54d758df29e7d829704e13ec279" category="paragraph">Hyper-V 워크로드 보호에 대한 자세한 내용은<block ref="ae9a446e0ed2e2ae49be41b424784f6c" category="inline-link-rx"></block>를 참조하십시오.</block>
   <block id="e370f8f4d5db9e4f93257ac02adddec3" category="section-title">2026년 11월 9일</block>
+  <block id="fe137bb7e7054941bc9c91c50085f74f" category="list-text">*디스크 간 백업 아키텍처를 사용한 Amazon FSx for NetApp ONTAP 지원*: 이제 동일한 AWS 리전 또는 다른 AWS 리전에서 Amazon FSx for NetApp ONTAP을 기본 스토리지로, 다른 FSx for NetApp ONTAP 파일 시스템을 2차 스토리지로 사용하는 디스크 간 백업 아키텍처를 활용하여 Kubernetes 보호 정책을 생성할 수 있습니다. 또한 Cloud Volumes ONTAP을 기본 스토리지로, FSx for NetApp ONTAP을 2차 스토리지로 사용할 수도 있습니다.</block>
+  <block id="f0fe6c245af38530401dcf0ad8dfed35" category="list-text">*qtree 복원 문제 수정*: 이전에는 ontap-nas-economy 볼륨 복원 시 qtree 디렉터리의 소유자 및 권한이 잘못 복원되는 문제가 있었습니다. 이번 릴리스에서 이 문제가 해결되었습니다.</block>
+  <block id="ae4951a992a8d5e6e6132772ba1d8a9e" category="inline-link">NetApp Backup and Recovery에서 Kubernetes 백업 정책을 생성하고 관리합니다.</block>
+  <block id="28a7fe5c0d3dddc8f87571ff9c276c1d" category="paragraph">Kubernetes 보호 정책 생성에 대한 자세한 내용은 다음을 참조하십시오<block ref="bfe6c4e3e3b18b6562d50ee9cf2c4f82" category="inline-link-rx"></block>.</block>
+  <block id="04df59aebaa27ff65cee06cd27064bff" category="list-text">*복원 인터페이스 개선*: ONTAP 볼륨용 복원 마법사의 레이아웃이 새롭게 바뀌고 탐색 기능이 향상되었습니다:</block>
+  <block id="335272593837dc282e2df95a4a0177c6" category="list-text">*향상된 선택 테이블*: 선택 테이블에 한 번에 더 많은 행과 열이 표시됩니다. 복원 화면은 간격과 이동 경로 표시를 개선하여 워크플로우에서 현재 위치를 확인할 수 있습니다.</block>
+  <block id="f0e5c0e1059e3a13f23bf2b09cc506f2" category="list-text">*단계별 탐색*: *다음* 및 *계속* 버튼 기능이 개선되어 실수로 다음 주요 단계로 건너뛰는 것을 방지합니다. *이전* 버튼을 누르면 마지막으로 완료한 화면으로 돌아가며 이전 선택 사항이 유지되므로 단계를 다시 시작할 필요가 없습니다.</block>
+  <block id="e32f3db58cd6a52e42519a253337192b" category="list-text">*소스 볼륨 선택 시 더 자세한 정보 표시*: 이제 볼륨 목록에 볼륨 유형, 볼륨 스타일, SnapLock 유형, 기존 보호 및 보호 상태가 표시됩니다. 기존 보호 열이 더 넓어져 모든 보호 표시기(스냅샷, 복제 및 백업)를 확인할 수 있습니다.</block>
+  <block id="da6b444d508815a1ee28ad87ca1663f9" category="list-text">*Azure 중국 리전에 호스팅된 볼륨 보호 지원*: 이제 ONTAP 볼륨을 Azure 중국(21Vianet)의 Azure Blob 스토리지에 백업할 수 있습니다. 이 지원은 Cloud Volumes ONTAP과 온프레미스 ONTAP 시스템 모두에 적용됩니다. 상용 Azure 및 Azure 정부 리전은 변경되지 않았습니다.</block>
+  <block id="915ff3f4971afffdc671ac4bb1e52630" category="section-title">2026년 11월 23일</block>
 </blocks>
